@@ -21,6 +21,7 @@
 - [Marko Tomik](https://github.com/mvrque)
 - [Min Oak Kyaw](https://github.com/Kybton)
 - [MAHESH]
+- [Abhishek Adhikari](https://github.com/VictorAbhi)
 - [Seyit Kaan Karaalioglu Zornic](https://github.com/followthwhiterabbit)
 - [Elemento]
 - [Brandon White]
